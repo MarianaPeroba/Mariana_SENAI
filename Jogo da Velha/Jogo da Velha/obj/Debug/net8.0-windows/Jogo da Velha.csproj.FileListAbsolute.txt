@@ -1,0 +1,16 @@
+D:\miguel\Jogo da Velha\Jogo da Velha\bin\Debug\net8.0-windows\Jogo da Velha.exe
+D:\miguel\Jogo da Velha\Jogo da Velha\bin\Debug\net8.0-windows\Jogo da Velha.deps.json
+D:\miguel\Jogo da Velha\Jogo da Velha\bin\Debug\net8.0-windows\Jogo da Velha.runtimeconfig.json
+D:\miguel\Jogo da Velha\Jogo da Velha\bin\Debug\net8.0-windows\Jogo da Velha.dll
+D:\miguel\Jogo da Velha\Jogo da Velha\bin\Debug\net8.0-windows\Jogo da Velha.pdb
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo_da_Velha.Form1.resources
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo da Velha.csproj.GenerateResource.cache
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo da Velha.GeneratedMSBuildEditorConfig.editorconfig
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo da Velha.AssemblyInfoInputs.cache
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo da Velha.AssemblyInfo.cs
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo da Velha.csproj.CoreCompileInputs.cache
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo da Velha.dll
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\refint\Jogo da Velha.dll
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo da Velha.pdb
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\Jogo da Velha.genruntimeconfig.cache
+D:\miguel\Jogo da Velha\Jogo da Velha\obj\Debug\net8.0-windows\ref\Jogo da Velha.dll
